@@ -17,10 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_dwarf_walk_left","order":9,"path":"sprites/spr_dwarf_walk_left/spr_dwarf_walk_left.yy",},
+    {"name":"spr_dwarf_walk_upward","order":10,"path":"sprites/spr_dwarf_walk_upward/spr_dwarf_walk_upward.yy",},
     {"name":"roundedTable","order":4,"path":"sprites/roundedTable/roundedTable.yy",},
-    {"name":"Table","order":1,"path":"objects/Table/Table.yy",},
-    {"name":"IdleKnightFront","order":2,"path":"sprites/IdleKnightFront/IdleKnightFront.yy",},
-    {"name":"IdleKnightLeft","order":5,"path":"sprites/IdleKnightLeft/IdleKnightLeft.yy",},
-    {"name":"IdleKnightRIght","order":3,"path":"sprites/IdleKnightRIght/IdleKnightRIght.yy",},
+    {"name":"spr_dwarf_walk_front","order":7,"path":"sprites/spr_dwarf_walk_front/spr_dwarf_walk_front.yy",},
+    {"name":"spr_dwarf_idle","order":6,"path":"sprites/spr_dwarf_idle/spr_dwarf_idle.yy",},
+    {"name":"oTable","order":1,"path":"objects/oTable/oTable.yy",},
+    {"name":"spr_dwarf_walk_right","order":8,"path":"sprites/spr_dwarf_walk_right/spr_dwarf_walk_right.yy",},
+    {"name":"oGame","order":2,"path":"objects/oGame/oGame.yy",},
   ],
 }
