@@ -24,6 +24,9 @@ var _gotoY = y + (_ver * 150) - (_viewH * 0.5);
 var _newX = lerp(_viewX, _gotoX, 0.1);
 var _newY = lerp(_viewY, _gotoY, 0.2);
 
+
+
+//animação andando
 if keyboard_check(ord("A"))
 {
 	x -= 2;
@@ -49,14 +52,26 @@ if keyboard_check(ord("S"))
 }
 
 
+//animação parada
+if keyboard_check_released(ord("A"))
+{
+	sprite_index = AnaoPA
+}
 
-//Setando o zoom 
+if keyboard_check_released(ord("D"))
+{
+	sprite_index = AnaoPD
+}
 
+if keyboard_check_released(ord("S"))
+{
+	sprite_index = AnaoPS
+}
 
-
-
-
-
+if keyboard_check_released(ord("W"))
+{
+	sprite_index = AnaoPW
+}
 
 
 

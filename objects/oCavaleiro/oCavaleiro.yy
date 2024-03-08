@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"CavaleiroPS_1",
-    "path":"sprites/CavaleiroPS_1/CavaleiroPS_1.yy",
+    "name":"CavaleiroPS",
+    "path":"sprites/CavaleiroPS/CavaleiroPS.yy",
   },
   "spriteMaskId":null,
   "visible":true,
