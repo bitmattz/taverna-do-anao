@@ -3,7 +3,7 @@
   "%Name":"CavaleiroPS",
   "bboxMode":0,
   "bbox_bottom":55,
-  "bbox_left":17,
+  "bbox_left":16,
   "bbox_right":46,
   "bbox_top":7,
   "collisionKind":1,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"dfc23834-b2ae-4f6e-886b-7b7447967a35","name":"dfc23834-b2ae-4f6e-886b-7b7447967a35","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ee401965-7c26-42c6-bdf9-f33d545d563a","name":"ee401965-7c26-42c6-bdf9-f33d545d563a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ef5e1c96-cfe6-4ead-a63b-8b7265727326","blendMode":0,"displayName":"default","isLocked":false,"name":"ef5e1c96-cfe6-4ead-a63b-8b7265727326","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab27dcb5-2808-4316-814f-af03ef034838","blendMode":0,"displayName":"default","isLocked":false,"name":"ab27dcb5-2808-4316-814f-af03ef034838","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"CavaleiroPS",
   "nineSlice":null,
@@ -59,7 +59,7 @@
     },
     "name":"CavaleiroPS",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":1.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfc23834-b2ae-4f6e-886b-7b7447967a35","path":"sprites/CavaleiroPS/CavaleiroPS.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"623d42f3-8f34-46e3-9caa-f06a1e58eefd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee401965-7c26-42c6-bdf9-f33d545d563a","path":"sprites/CavaleiroPS/CavaleiroPS.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0059fe8a-ce54-4274-a576-e895e3e48367","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
